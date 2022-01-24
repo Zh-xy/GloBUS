@@ -23,7 +23,7 @@ import ctypes
 import math
 
 # set current directory
-dir_path = "E:\\Leiden\\research\\building related emissions\\沙子\\GloBUS-upload"
+dir_path = ""
 os.chdir(dir_path)   
 
 # Set general constants
