@@ -1,11 +1,11 @@
 # GloBus
 Global building sand use
 
-GloBus is a global dynamic building sand use model. It transfers the social economic development in 26 global regions into the use of sand for the production of building concrete and glass. It models 4 residential building types in two areas (rural/urban) and 4 commercial building types. More details are avaliable in the paper: Addressing the acute vulnerability of the global building sector to sand supply.
+GloBus is a global dynamic building sand use model. It transfers the social economic development in 26 global regions into the use of sand for the production of building concrete and glass. It models 4 residential building types in two areas (rural/urban) and 4 commercial building types. More details are avaliable in the paper: Increasing material efficiencies of buildings to address the global sand crisis.
 
 Corresponding author: x.zhong@cml.leidenuniv.nl
 
-The dynamic material model is based on the BUMA model developed by Deetman Sebastiaan, Leiden University, the Netherlands. For the original code & latest updates, see: https://github.com/SPDeetman/BUMA
+The building material model is based on the BUMA model developed by Sebastiaan Deetman (https://github.com/SPDeetman/BUMA) and the GloBUME model by Xiaoyang Zhong (DOI: 10.5281/zenodo.5171943)
 
 The dynamic stock model is based on the ODYM model developed by Stefan Pauliuk, Uni Freiburg, Germany. For the original code & latest updates, see: https://github.com/IndEcol/ODYM
 
