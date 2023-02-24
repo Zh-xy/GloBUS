@@ -1,7 +1,7 @@
 # GloBus
 Global building sand use
 
-GloBus is a global dynamic building sand use model. It transfers the social economic development in 26 global regions into the use of sand for the production of building concrete and glass. It models 4 residential building types in two areas (rural/urban) and 4 commercial building types. More details are avaliable in the paper: Increasing material efficiencies of buildings to address the global sand crisis.
+GloBus is a global dynamic building sand use model. It transfers the social economic development in 26 global regions into the use of sand for the production of building concrete and glass. It models 4 residential building types in two areas (rural/urban) and 4 commercial building types. More details are avaliable in the paper: Increasing material efficiencies of buildings to address the global sand crisis: https://www.nature.com/articles/s41893-022-00857-0
 
 Corresponding author: x.zhong@cml.leidenuniv.nl
 
